@@ -359,7 +359,7 @@ a:hover {
 }
 
 .logo {
-    /*margin-top: 10px;*/
+
     display: inline-block
 }
 
@@ -392,9 +392,7 @@ a:hover {
     margin-bottom: 0
 }
 
-.navigation .logo {
-    /*padding: 0*/
-}
+
 
 .navigation .navigation-menu li a.active {
     color: #57cbcc
